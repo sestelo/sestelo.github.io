@@ -9,7 +9,7 @@ p {
 /* links */
 
 /* unvisited link */
-a:link, a:visited {
+#a {
     color: black;
 }
 

@@ -57,7 +57,7 @@ ___
 
 ### Research
 
-[Here](https://github.com/sestelo/sestelo.github.io/blob/master/sestelo_cv.pdf?raw=true) it is possible to download my complete cv.
+My complete cv can be download [here](https://github.com/sestelo/sestelo.github.io/blob/master/sestelo_cv.pdf?raw=true).
 
 
 ##### Journal articles
