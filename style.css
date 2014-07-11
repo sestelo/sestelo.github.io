@@ -13,6 +13,11 @@ a:link, a:visited {
     color: black;
 }
 
+/* visited link */
+a:visited {
+    color: black;
+}
+
 /* mouse over link */
 a:hover {
     color: grey;
