@@ -15,7 +15,7 @@ output: html_document
 
 
 <div align="right">
-<p><img id="foto" src="https://github.com/sestelo/sestelo.github.io/blob/master/images/fotoc.png?raw=true" alt="foto">
+<p><img id="foto" src="https://github.com/sestelo/sestelo.github.io/blob/master/images/foto2.png?raw=true" alt="foto">
 
 <br>
 <br>
