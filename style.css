@@ -11,6 +11,18 @@ p {
 	float: left;
 	width: 5%;
 	height: auto;
-	margin: 0px 0px 10px 0px;
+	margin: 0px -5px 10px 0px;
+}
+#linkedin {
+	float: left;
+	width: 3.5%;
+	height: auto;
+	margin: 5px 0px 10px 0px;
+}
+#twitter {
+	float: left;
+	width: 3.2%;
+	height: auto;
+	margin: 6px 0px 10px 5px;
 }
 
