@@ -64,13 +64,13 @@ My complete cv can be download [here](https://github.com/sestelo/sestelo.github.
 
 - A. Guerra, J. Hernández-Urcera, M. E. Garcia, M. Sestelo, M. Regueira, A. F. González, M. Cabanellas-Reboredo, M. Calvo-Manazza and B. Morales-Nin (2014). Dwellers in dens on sandy bottoms: Ecological and behavioural traits of Octopus vulgaris. Scientia Marina. In press.
 
-- M. Sestelo, J. Roca-Pardiñas and C. Ordóñez (2014). [Predicting SO2 pollution incidents by means of additive models with optimum variable selection](http://www.sciencedirect.com/science/article/pii/S1352231014004713). Atmospheric Environment, 95,151-157. 
+- [M. Sestelo, J. Roca-Pardiñas and C. Ordóñez (2014). Predicting SO2 pollution incidents by means of additive models with optimum variable selection. Atmospheric Environment, 95,151-157.](http://www.sciencedirect.com/science/article/pii/S1352231014004713) 
 
-- G. Bidegain, M. Sestelo, J. Roca-Pardiñas and J. A. Juanes (2013). [Estimating a new suitable catch size for two clam species: Implications for shellfishery management](http://www.sciencedirect.com/science/article/pii/S0964569112002645). Ocean and Coastal Management, 71, 52-63.
+- [G. Bidegain, M. Sestelo, J. Roca-Pardiñas and J. A. Juanes (2013). Estimating a new suitable catch size for two clam species: Implications for shellfishery management. Ocean and Coastal Management, 71, 52-63.](http://www.sciencedirect.com/science/article/pii/S0964569112002645)
 
-- C. Ordóñez, M. Sestelo, J. Roca-Pardiñas and E. Covián (2012). [Variable selection in regression models used to analyse Global Positioning System accuracy in forest environments](http://www.sciencedirect.com/science/article/pii/S0096300312008624). Applied Mathematics and Computation, 219, 2220-2230.
+- [C. Ordóñez, M. Sestelo, J. Roca-Pardiñas and E. Covián (2012). Variable selection in regression models used to analyse Global Positioning System accuracy in forest environments. Applied Mathematics and Computation, 219, 2220-2230.](http://www.sciencedirect.com/science/article/pii/S0096300312008624)
 
-- M. Sestelo and J. Roca-Pardiñas (2011). [A new approach to estimation of the length-weight relationship of Pollicipes pollicipes (Gmelin, 1789) on the Atlantic coast of Galicia (Northwest Spain): Some aspects of its biology and management](http://www.bioone.org/doi/abs/10.2983/035.030.0336). Journal of Shellfish Research, 30(3), 939-948.
+- [M. Sestelo and J. Roca-Pardiñas (2011). A new approach to estimation of the length-weight relationship of Pollicipes pollicipes (Gmelin, 1789) on the Atlantic coast of Galicia (Northwest Spain): Some aspects of its biology and management. Journal of Shellfish Research, 30(3), 939-948.](http://www.bioone.org/doi/abs/10.2983/035.030.0336)
 
 ##### Book chapters
 
@@ -78,14 +78,13 @@ My complete cv can be download [here](https://github.com/sestelo/sestelo.github.
 
 ##### Technical documents
 
-- N. M. Villanueva, M. Sestelo, C. Ordóñez and J. Roca-Pardiñas (2013). [Comparing regression functions with an automatic selection of groups](https://webs.uvigo.es/depc05/reports/13_07.pdf). Discussion Papers in Statistics and Operations Research, no 13/07.
+- [N. M. Villanueva, M. Sestelo, C. Ordóñez and J. Roca-Pardiñas (2013). Comparing regression functions with an automatic selection of groups. Discussion Papers in Statistics and Operations Research, no 13/07.](https://webs.uvigo.es/depc05/reports/13_07.pdf)
 
-- M. Sestelo, N. M. Villanueva and J. Roca-Pardiñas (2013). [FWDselect: Variable selection algorithm in regression models](http://webs.uvigo.es/depc05/reports/13_02.pdf). Discussion Papers in Statistics and Operations Research, no 13/02.
+- [M. Sestelo, N. M. Villanueva and J. Roca-Pardiñas (2013). FWDselect: Variable selection algorithm in regression models. Discussion Papers in Statistics and Operations Research, no 13/02.](http://webs.uvigo.es/depc05/reports/13_02.pdf)
 
-- M. Sestelo and J. Roca-Pardiñas (2012). [Testing critical points of regression curves. An application to the management of aquatic living resources](https://webs.uvigo.es/depc05/reports/12_06.pdf). Discussion Papers in Statistics and Operations Research, no 12/06.
+- [M. Sestelo and J. Roca-Pardiñas (2012). Testing critical points of regression curves. An application to the management of aquatic living resources. Discussion Papers in Statistics and Operations Research, no 12/06.](https://webs.uvigo.es/depc05/reports/12_06.pdf)
 
-- M. Sestelo and J. Roca-Pardiñas (2010). [Length-weight relationship of Pollicipes pollicipes (Gmelin, 1789) on the Atlantic coast of Galicia (NW Spain)](http://webs.uvigo.es/depc05/reports/10_02.pdf). Some aspects of its biology and management. Discussion Papers in Statistics and Operations Research, no 10/02.
-
+- [M. Sestelo and J. Roca-Pardiñas (2010). Length-weight relationship of Pollicipes pollicipes (Gmelin, 1789) on the Atlantic coast of Galicia (NW Spain). Some aspects of its biology and management. Discussion Papers in Statistics and Operations Research, no 10/02.](http://webs.uvigo.es/depc05/reports/10_02.pdf)
 
 
 
