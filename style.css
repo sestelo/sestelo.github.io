@@ -9,14 +9,9 @@ p {
 /* links */
 
 /* unvisited link */
-a:link {
+a:link, a:visited {
     color: black;
 }
-
-/* visited link 
-a:visited {
-    color: red;
-}*/
 
 /* mouse over link */
 a:hover {

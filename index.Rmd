@@ -25,7 +25,7 @@ output: html_document
 
 
 <div id="contact2">
-June 04  
+June 04, 1981  
 sestelo@mat.uab.cat  
 sestelo.github.io
 </div>
