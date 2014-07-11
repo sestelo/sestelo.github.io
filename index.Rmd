@@ -3,6 +3,8 @@ title: ""
 output: html_document
 ---  
 
+<link rel="stylesheet" type="text/css" href="https://github.com/sestelo/sestelo.github.io/blob/master/style.css" media="screen" />
+
 # sestelo.github.io
 
 <br>
