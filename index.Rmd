@@ -10,8 +10,7 @@ output: html_document
 
 <div align="right">
 
-![Alt text](/images/foto.jpg)
-Format: ![Alt text](url)
+![foto](https://github.com/sestelo/sestelo.github.io/blob/master/images/foto.jpg?raw=true)
 
 Marta Sestelo (sestelo@mat.uab.cat)    
 Department of Mathematics  
