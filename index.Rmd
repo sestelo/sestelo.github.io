@@ -10,7 +10,8 @@ output: html_document
 
 <div align="right">
 
-![Alt text](https://github.com/sestelo/sestelo.github.io/tree/master/images/foto.jpg)
+![Alt text](/images/foto.jpg)
+Format: ![Alt text](url)
 
 Marta Sestelo (sestelo@mat.uab.cat)    
 Department of Mathematics  
@@ -63,3 +64,4 @@ ___
 
 ___
 
+&copy; [Marta Sestelo](sestelo.github.io) 2014
