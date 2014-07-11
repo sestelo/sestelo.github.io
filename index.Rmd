@@ -1,19 +1,23 @@
+<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+
 ---
 title: ""
 output: html_document
 ---  
 
-<link rel="stylesheet" type="text/css" href="https://github.com/sestelo/sestelo.github.io/blob/master/style.css" media="screen" />
+
 
 # sestelo.github.io
 
 <br>
 <br>
 
+
+<img id="foto" src="https://github.com/sestelo/sestelo.github.io/blob/master/images/foto.jpg" alt="foto">
+
+<br>
+
 <div align="right">
-
-![foto](https://github.com/sestelo/sestelo.github.io/blob/master/images/foto.jpg?raw=true)
-
 Marta Sestelo (sestelo@mat.uab.cat)    
 Department of Mathematics  
 Autonomous University of Barcelona  
