@@ -13,20 +13,20 @@ a:link {
     color: black;
 }
 
-/* visited link */
+/* visited link 
 a:visited {
     color: red;
-}
+}*/
 
 /* mouse over link */
 a:hover {
-    color: blue;
+    color: grey;
 }
 
-/* selected link */
+/* selected link 
 a:active {
     color: #orange;
-}
+} */
 
 
 

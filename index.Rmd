@@ -78,13 +78,13 @@ ___
 
 ##### Technical documents
 
-- N. M. Villanueva, M. Sestelo, C. Ordóñez and J. Roca-Pardiñas (2013). Comparing regression functions with an automatic selection of groups. Discussion Papers in Statistics and Operations Research, no 13/07.
+- N. M. Villanueva, M. Sestelo, C. Ordóñez and J. Roca-Pardiñas (2013). [Comparing regression functions with an automatic selection of groups](https://webs.uvigo.es/depc05/reports/13_07.pdf). Discussion Papers in Statistics and Operations Research, no 13/07.
 
-- M. Sestelo, N. M. Villanueva and J. Roca-Pardiñas (2013). FWDselect: Variable selection algorithm in regression models. Discussion Papers in Statistics and Operations Research, no 13/02.
+- M. Sestelo, N. M. Villanueva and J. Roca-Pardiñas (2013). [FWDselect: Variable selection algorithm in regression models](http://webs.uvigo.es/depc05/reports/13_02.pdf). Discussion Papers in Statistics and Operations Research, no 13/02.
 
-- M. Sestelo and J. Roca-Pardiñas (2012). Testing critical points of regression curves. An application to the management of aquatic living resources. Discussion Papers in Statistics and Operations Research, no 12/06.
+- M. Sestelo and J. Roca-Pardiñas (2012). [Testing critical points of regression curves. An application to the management of aquatic living resources](https://webs.uvigo.es/depc05/reports/12_06.pdf). Discussion Papers in Statistics and Operations Research, no 12/06.
 
-- M. Sestelo and J. Roca-Pardiñas (2010). Length-weight relationship of Pollicipes pollicipes (Gmelin, 1789) on the Atlantic coast of Galicia (NW Spain). Some aspects of its biology and management. Discussion Papers in Statistics and Operations Research, no 10/02.
+- M. Sestelo and J. Roca-Pardiñas (2010). [Length-weight relationship of Pollicipes pollicipes (Gmelin, 1789) on the Atlantic coast of Galicia (NW Spain)](http://webs.uvigo.es/depc05/reports/10_02.pdf). Some aspects of its biology and management. Discussion Papers in Statistics and Operations Research, no 10/02.
 
 
 
