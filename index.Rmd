@@ -13,7 +13,7 @@ output: html_document
 <br>
 
 
-<img id="foto" src="https://github.com/sestelo/sestelo.github.io/blob/master/images/foto.jpg" alt="foto">
+<img id="foto" src="https://github.com/sestelo/sestelo.github.io/blob/master/images/foto.jpg?raw=true" alt="foto">
 
 <br>
 
@@ -27,7 +27,7 @@ Autonomous University of Barcelona
 <div align="justify">
 
 
-### About
+### About me
 ___
 
 I am a Postdoctoral Researcher at Autonomous University of Barcelona focus on the development of new methodologies and algorithms related with nonparametric statistics. I am interested in  estimation and inference methods of flexible regression models, in developing practical tools for data analysis and in gaining better understanding of real life issues through statistical knowledge. At the moment, my lines of research are nonparametric curves estimation, testing procedures, variable selection, software development, bootstrap resampling methods and applications to Engineering, Biology or environment. 
