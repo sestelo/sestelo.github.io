@@ -9,16 +9,48 @@ p {
 /* links */
 
 /* unvisited link */
-#a {
-    color: black;
+a {
+	color: blue;
+	text-decoration: underline;
 }
 
-/* visited link */
+a:active {
+	color: yellow;
+	text-decoration: none;
+}
+
+a:link {
+	color: blue;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: purple;
+	text-decoration: none;
+}
+
+a:focus {
+	color: red;
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+/* visited link 
 a:visited {
     color: black;
 }
 
-/* mouse over link */
+/* mouse over link 
 a:hover {
     color: grey;
 }
