@@ -10,8 +10,10 @@ output: html_document
 # sestelo.github.io
 
 <p><img id="foto" src="https://github.com/sestelo/sestelo.github.io/blob/master/images/foto2.png?raw=true" alt="foto">
-<p><a href="https://www.linkedin.com/profile/view?id=209697998&trk=nav_responsive_tab_profile_pic"><img id="linkedin" src="https://github.com/sestelo/sestelo.github.io/blob/master/images/linkedin.png?raw=true" alt="foto"></a> 
-<p><a href="https://twitter.com/MartaSestelo"><img id="twitter" src="https://github.com/sestelo/sestelo.github.io/blob/master/images/twitter.png?raw=true" alt="foto"></a> 
+<p><a href="https://www.linkedin.com/profile/view?id=209697998&trk=nav_responsive_tab_profile_pic"><img id="linkedin" src="https://github.com/sestelo/sestelo.github.io/blob/master/images/linkedin.png?raw=true" alt="linkedin"></a> 
+<p><a href="https://twitter.com/MartaSestelo"><img id="twitter" src="https://github.com/sestelo/sestelo.github.io/blob/master/images/twitter.png?raw=true" alt="twitter"></a> 
+
+
 
 
 
@@ -19,23 +21,26 @@ output: html_document
 <br>
 <br>
 
-<div align="right">
-**Marta Sestelo**  
+
+
+
+<div id="contact2">
+June 04  
+sestelo@mat.uab.cat  
+sestelo.github.io
+</div>
+<div id="contact1">
+Marta Sestelo  
 Department of Mathematics  
 Autonomous University of Barcelona  
-sestelo@mat.uab.cat   
-<div style="border-right:1px solid #000;height:50px"></div>
-hkjhk
-<br style="clear: both;" /></p>
-<div>
+</div>
 
 
 
 
 
 
-
-<div align="justify">
+<div id="texto">
 
 
 ### About me
@@ -52,7 +57,37 @@ ___
 
 ### Research
 
-Link to cv latex.
+Link to my complete cv.
+
+
+##### Journal articles
+
+- A. Guerra, J. Hernández-Urcera, M. E. Garcia, M. Sestelo, M. Regueira, A. F. González, M. Cabanellas-Reboredo, M. Calvo-Manazza and B. Morales-Nin (2014). Dwellers in dens on sandy bottoms: Ecological and behavioural traits of Octopus vulgaris. Scientia Marina. In press.
+
+- M. Sestelo, J. Roca-Pardiñas and C. Ordóñez (2014). Predicting SO2 pollution incidents by means of additive models with optimum variable selection. Atmospheric Environment, 95,151-157. 
+
+- G. Bidegain, M. Sestelo, J. Roca-Pardiñas and J. A. Juanes (2013). Estimating a new suitable catch size for two clam species: Implications for shellfishery management. Ocean and Coastal Management, 71, 52-63.
+
+- C. Ordóñez, M. Sestelo, J. Roca-Pardiñas and E. Covián (2012). Variable selection in regression models used to analyse Global Positioning System accuracy in forest environments. Applied Mathematics and Computation, 219, 2220-2230.
+
+- M. Sestelo and J. Roca-Pardiñas (2011). A new approach to estimation of the length-weight relationship of Pollicipes pollicipes (Gmelin, 1789) on the Atlantic coast of Galicia (Northwest Spain): Some aspects of its biology and management. Journal of Shellfish Research, 30(3), 939-948.
+
+##### Book chapters
+
+- I. Martínez-Silva, M. Sestelo, G. Bidegain, A. Lorenzo-Arribas and J. Roca-Pardiñas (2014). Nonparametric regression applied to sea urchin growth. In Sea Urchins: Habitat, Embryonic Development and Importance in the Environment. Marine Biology Series. Editor: E. Raymond Banks. Nova Publishers. ISBN: 978-1-63321-517.7.
+
+##### Technical documents
+
+- N. M. Villanueva, M. Sestelo, C. Ordóñez and J. Roca-Pardiñas (2013). Comparing regression functions with an automatic selection of groups. Discussion Papers in Statistics and Operations Research, no 13/07.
+
+- M. Sestelo, N. M. Villanueva and J. Roca-Pardiñas (2013). FWDselect: Variable selection algorithm in regression models. Discussion Papers in Statistics and Operations Research, no 13/02.
+
+- M. Sestelo and J. Roca-Pardiñas (2012). Testing critical points of regression curves. An application to the management of aquatic living resources. Discussion Papers in Statistics and Operations Research, no 12/06.
+
+- M. Sestelo and J. Roca-Pardiñas (2010). Length-weight relationship of Pollicipes pollicipes (Gmelin, 1789) on the Atlantic coast of Galicia (NW Spain). Some aspects of its biology and management. Discussion Papers in Statistics and Operations Research, no 10/02.
+
+
+
 
 <br>
 
@@ -69,12 +104,19 @@ ___
 
 ___
 
-### R packages
+
+
+### Software
+
+
 
 - **NPRegfast** package. Author and maintainer of this R package to perform nonparametric estimation for analyzing interactions factor-by-curve. NPRegfast allows the user to obtain nonparametric estimates using local linear kernel smoothers and compare them between factor's levels. Also a feature of the package is its ability to draw inference about critical points, such as maxima or change points linked to the derivative curves. The inference (confidence intervals and tests) is based on bootstrap. This package allows not only to obtain smooth estimates also based on classical parametric models, as allometric model, one of the most used models in biology frameworks usually used to study the relationship between two biometrical variables. Additionally, we have implemented binning type acceleration techniques
 
+<br>
 
 - **FWDselect** package. Author and mantainer of this package (http://cran.r-project.org/web/packages/FWDselect/), an R package that introduces a simple method to select the best model or best subset of variables using different types of data (continuous, binary or poisson) and applying it in different contexts (parametric or nonparametric).
+
+<br>
 
 - **seq2R** package. Author of this package (http://cran.r-project.org/web/packages/seq2R), an R package to detect compositional changes in genomic sequences. This software is useful for loading .fasta or .gbk files, and for retrieving sequences from GenBank dataset. This package allows to detect differences or asymmetries based on nucleotide composition by using local linear kernel smoothers. Also, it is possible to draw inference about critical points (i. e. maximum or minimum points) related with the derivative curves. Additionally, bootstrap methods have been used for estimating confidence intervals and speed computational techniques (binning techniques) have been implemented in <tt>seq2R<tt>.
 
@@ -82,9 +124,20 @@ ___
 
 ___
 
-<div align="right">
+</div>
+
+
+
+
+
+<div id="copyright">
 &copy; [Marta Sestelo](sestelo.github.io) 2014
-<div>
+</div>
+
+
+
+
+
 
 
 <script>
