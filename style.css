@@ -1,12 +1,16 @@
 
-p { color: black; font-family: Adobe Calson Pro; }
+p { 
+	color: black; 
+	font-family: Adobe Calson Pro;
+	src: url('https://github.com/sestelo/sestelo.github.io/blob/master/adobe_caslon_pro.ttf'); 
+}
 
 
 /* insert images */
 #foto {
-	float: right;
-	width: 25%;
+	float: left;
+	width: 5%;
 	height: auto;
-	margin: 0px 0px 0px 0px;
+	margin: 0px 0px 10px 0px;
 }
 
