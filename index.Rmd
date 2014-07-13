@@ -46,7 +46,7 @@ Autonomous University of Barcelona
 ### About me
 
 
-I am a Postdoctoral Researcher at Autonomous University of Barcelona focus on the development of new methodologies and algorithms related with nonparametric statistics. I am interested in  estimation and inference methods of flexible regression models, in developing practical tools for data analysis and in gaining better understanding of real life issues through statistical knowledge. At the moment, my lines of research are nonparametric curves estimation, testing procedures, variable selection, software development, bootstrap resampling methods and applications to Engineering, Biology or environment. 
+I am a Postdoctoral Researcher at Department of Mathemathics of Autonomous University of Barcelona focus on the development of new methodologies and algorithms related with nonparametric statistics. I am interested in  estimation and inference methods of flexible regression models, in developing practical tools for data analysis and in gaining better understanding of real life issues through statistical knowledge. At the moment, my lines of research are nonparametric curves estimation, testing procedures, variable selection, software development, bootstrap resampling methods and applications to Engineering, Biology or environment. 
 
 <br>
 
