@@ -15,11 +15,19 @@ output: html_document
 
 
 
+<div id="navbar">
+[**About me**](#about-me) $\qquad$ [**Research**](#research) $\qquad$ [**Teaching**](#teaching) $\qquad$ [**Software**](#software)  
+</div>
 
 
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+
+
 
 
 
@@ -38,15 +46,13 @@ Autonomous University of Barcelona
 
 
 
-
-
 <div id="texto">
 
 
-### About me
+### <a name="about-me"></a> About me
 
 
-I am a Postdoctoral Researcher at Department of Mathemathics of Autonomous University of Barcelona focus on the development of new methodologies and algorithms related with nonparametric statistics. I am interested in  estimation and inference methods of flexible regression models, in developing practical tools for data analysis and in gaining better understanding of real life issues through statistical knowledge. At the moment, my lines of research are nonparametric curves estimation, testing procedures, variable selection, software development, bootstrap resampling methods and applications to Engineering, Biology or environment. 
+I am a Postdoctoral Researcher at the Department of Mathemathics of the Autonomous University of Barcelona. I am focused on the development of new methodologies and algorithms related with nonparametric statistics. I am interested in  estimation and inference methods of flexible regression models, in developing practical tools for data analysis and in gaining better understanding of real life issues through statistical knowledge. At the moment, my lines of research are nonparametric curves estimation, testing procedures, variable selection, software development, bootstrap resampling methods and applications to Engineering, Biology or Environment. 
 
 <br>
 
@@ -55,7 +61,7 @@ ___
 
 
 
-### Research
+### <a name="research"></a> Research
 
 My complete cv can be download [here](https://github.com/sestelo/sestelo.github.io/blob/master/sestelo_cv.pdf?raw=true).
 
@@ -92,7 +98,7 @@ My complete cv can be download [here](https://github.com/sestelo/sestelo.github.
 
 ___
 
-### Teaching <font size="2">(in progress)</font>
+### <a name="teaching"></a>Teaching <font size="2">(in progress)</font>
 
 
 - Probability Calculus. B.Sc. in Applied Statistics. Autonomous University of Barcelona.
@@ -105,7 +111,7 @@ ___
 
 
 
-### Software
+### <a name="software"></a>Software
 
 
 
@@ -130,7 +136,7 @@ ___
 
 
 <div id="copyright">
-&copy; [Marta Sestelo](sestelo.github.io) 2014
+&copy; [Marta Sestelo](http://sestelo.github.io) 2014
 </div>
 
 

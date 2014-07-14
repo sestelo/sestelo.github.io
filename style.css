@@ -6,9 +6,10 @@ p {
 }
 
 
-/* links */
 
-/* unvisited link */
+
+
+/* links */
 
 a:active {
 	color: yellow;
@@ -39,27 +40,6 @@ a:hover {
 
 
 
-
-
-/* visited link 
-a:visited {
-    color: black;
-}
-
-/* mouse over link 
-a:hover {
-    color: grey;
-}
-
-/* selected link 
-a:active {
-    color: #orange;
-} */
-
-
-
-
-
 /* insert images */
 
 #foto {
@@ -82,32 +62,26 @@ a:active {
 }
 
 
+
+
 /* navbar */
 
 #navbar {
-	position: absolute;
-	left: 1.5em;
-	top: 5em;
-	width:  8.9%;
-	font-size:  0.85em;
-	padding: 0 0.5em 0 0;
+	text-align: ;
+	margin-left: 80px;
 }
+
+
+
+/*
 #navbar * { margin: 0 0 0.25em 0; text-align:  right;}
 #navbar h2 {border:  none; font-size:  1em; padding:  0; border-top:  1px solid #ccc; font-weight: normal; margin-top: 0.65em; padding-top:  0.35em;}
 #navbar ul {list-style:  none;}
 
 #wrap {margin: 3em 15%;}
+*/
 
 
-/* contact
-
-#contact {
-	text-align: right;
-    border-right: 1px solid black;
-    top: 10px;
-    bottom: 500px;
-}
- */
 
 #contact2 {
   float: right;
@@ -116,16 +90,24 @@ a:active {
   margin-left: 8px;
   border-left: 1px solid;
 }
+
 #contact1 {
   text-align: right;
 }
+
+
+
+
 
 /* texto */
 
 #texto {
 	text-align: justify;
-	margin-left: 8px;
 }
+
+
+
+
 
 
 
