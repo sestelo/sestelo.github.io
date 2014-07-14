@@ -16,7 +16,7 @@ output: html_document
 
 
 <div id="navbar">
-[**About me**](#about-me) $\qquad$ [**Research**](#research) $\qquad$ [**Teaching**](#teaching) $\qquad$ [**Software**](#software)  
+[**About me**](#about-me) $\quad$ [**Research**](#research) $\quad$ [**Teaching**](#teaching) $\quad$ [**Software**](#software)  
 </div>
 
 
@@ -35,7 +35,7 @@ output: html_document
 <div id="contact2">
 June 04, 1981  
 sestelo@mat.uab.cat  
-sestelo.github.io
+[sestelo.github.io](http://sestelo.github.io)
 </div>
 <div id="contact1">
 Marta Sestelo  

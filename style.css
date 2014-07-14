@@ -67,8 +67,9 @@ a:hover {
 /* navbar */
 
 #navbar {
-	text-align: ;
-	margin-left: 80px;
+	text-align:  right;
+	margin-left: 160px;
+	margin-top: 24px;
 }
 
 
