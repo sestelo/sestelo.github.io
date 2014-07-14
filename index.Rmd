@@ -1,10 +1,12 @@
 ---
 output: html_document
+title: Marta Sestelo
+author: Marta Sestelo
 ---
 <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
 
 
-<title>Marta Sestelo</title>
+
 
 
 # sestelo.github.io
