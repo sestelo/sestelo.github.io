@@ -1,11 +1,11 @@
 ---
 output: html_document
-title: Marta Sestelo
-author: Marta Sestelo
 ---
 <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
 
-
+<head>
+<title>Marta Sestelo</title>
+</head>
 
 
 
