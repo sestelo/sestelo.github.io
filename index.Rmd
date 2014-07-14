@@ -123,7 +123,7 @@ ___
 
 <br>
 
-- **seq2R** package. Author of this package (http://cran.r-project.org/web/packages/seq2R), an R package to detect compositional changes in genomic sequences. This software is useful for loading .fasta or .gbk files, and for retrieving sequences from GenBank dataset. This package allows to detect differences or asymmetries based on nucleotide composition by using local linear kernel smoothers. Also, it is possible to draw inference about critical points (i. e. maximum or minimum points) related with the derivative curves. Additionally, bootstrap methods have been used for estimating confidence intervals and speed computational techniques (binning techniques) have been implemented in <tt>seq2R<tt>.
+- **seq2R** package. Author of this R package (http://cran.r-project.org/web/packages/seq2R) to detect compositional changes in genomic sequences. This software is useful for loading .fasta or .gbk files, and for retrieving sequences from GenBank dataset. The package allows to detect differences or asymmetries based on nucleotide composition by using local linear kernel smoothers. Also, it is possible to draw inference about critical points (i. e. maximum or minimum points) related with the derivative curves. Additionally, bootstrap methods have been used for estimating confidence intervals and speed computational techniques (binning techniques) have been implemented in <tt>seq2R<tt>.
 
 <br>
 
