@@ -1,16 +1,38 @@
 
-p { 
+body,td{
+	background-color: white;
 	color: black; 
-	font-family: ;
-	src: url('https://github.com/sestelo/sestelo.github.io/blob/master/adobe_caslon_pro.ttf'); 
+	font-family: sans-serif;
+	font-size: 14px;
+	max-width: 940px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0em;
+  	line-height: 20px;
+}
+
+pre, img {
+  max-width: 100%;
 }
 
 
-.main-container {
-  max-width: 940px;
-  margin-left: auto;
-  margin-right: auto;
+hr {
+   height: 0px;
+   border-bottom: none;
+   border-top-width: thin;
+   border-top-style: solid;
+   border-top-color: lightgrey;
 }
+
+
+
+h1 {font-size:2.7em;}
+
+h2 {font-size:1.8em;}
+
+/*tt, code, pre {
+   font-family: 'DejaVu Sans Mono', 'Droid Sans Mono', 'Lucida Console', Consolas, Monaco, monospace;
+}/*
 
 
 /* links */
@@ -50,19 +72,19 @@ a:hover {
 	float: left;
 	width: 5%;
 	height: auto;
-	margin: 0px -5px 10px 0px;
+	margin: -10px -5px 10px 0px;
 }
 #linkedin {
 	float: left;
 	width: 3.5%;
 	height: auto;
-	margin: 5px 0px 10px 0px;
+	margin: -5px 0px 10px 0px;
 }
 #twitter {
 	float: left;
 	width: 3.2%;
 	height: auto;
-	margin: 6px 0px 10px 5px;
+	margin: -4px 0px 10px 5px;
 }
 
 
