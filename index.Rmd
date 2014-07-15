@@ -1,15 +1,14 @@
 ---
+title: sestelo.github.io
 output: html_document
 ---
 <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
 
-<head>
-<title>Marta Sestelo</title>
-</head>
 
 
 
-# sestelo.github.io
+
+
 
 
 
