@@ -25,6 +25,11 @@ hr {
 }
 
 
+#container {
+margin-left: auto;
+margin-right: auto;
+}
+
 
 h1 {font-size:8em;}
 h2 {font-size:1.8em;}
