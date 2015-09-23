@@ -31,7 +31,9 @@ margin-right: auto;
 }
 
 
-h1 {font-size:8em;}
+h1 {font-size:8em;
+	line-height: 1em;
+	}
 h2 {font-size:1.8em;}
 h3 {font-size:1.6em;}
 
@@ -140,16 +142,12 @@ a:hover {
 }
 
 
-
-
-
 /* texto */
 
 #texto {
 	text-align: justify;
 
 }
-
 
 
 /* copyright */
