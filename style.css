@@ -81,7 +81,7 @@ a:hover {
 
 /* name */
 #name {
-	text-align:  center;
+	float:  center;
 	margin-top: 300px;
 	font-size: 90px;
 }
