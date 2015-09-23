@@ -26,9 +26,9 @@ hr {
 
 
 
-h1 {font-size:22px;}
-
+h1 {font-size:8em;}
 h2 {font-size:1.8em;}
+h3 {font-size:1.6em;}
 
 
 /*tt, code, pre {
@@ -71,8 +71,7 @@ a:hover {
 
 #foto {
 	float: left;
-	width: 4.7%;
-	height: auto;
+	width: 43px;
 	margin: -5px -5px 0px -10px;
 }
 
@@ -83,7 +82,9 @@ a:hover {
 #name {
 	text-align:  center;
 	margin-top: 300px;
-	font-size: 90px;
+	letter-spacing: 1px;
+
+
 }
 
 
