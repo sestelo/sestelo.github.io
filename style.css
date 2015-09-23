@@ -85,6 +85,7 @@ a:hover {
 
 /* name */
 #name {
+	position: relative;
 	text-align:  center;
 	margin-top: 300px;
 	letter-spacing: 1px;
@@ -97,6 +98,7 @@ a:hover {
 /* navbar */
 
 #navbarpp {
+	position: relative;
 	text-align:  center;
 	margin-top: 100px;
 	font-size: 22px;
@@ -155,3 +157,14 @@ a:hover {
 #copyright {
 	text-align: right;
 }
+
+
+
+
+
+
+
+
+
+
+
